@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-07-20",
-    "google": [],
-    "reddit": [
-      "r/artificial: Artificial Intelligence (AI)",
-      "r/artificial: Fable 5 is now metered for Pro and Team Standard, but Claude Code's separate August 19 extension may be more useful to w",
-      "r/artificial: Politicians Are Trying to Change What Chatbots Say About Them",
-      "r/artificial: I built a fully-local and speedy MacOS utility for text to speech and dictation, running top of the range AI models",
-      "r/artificial: AI advice made people three times less accurate but twice as confident, researchers found"
-    ],
-    "hackernews": [
-      "[518pts] Claude Code uses Bun written in Rust now",
-      "[204pts] Orion Browser by Kagi",
-      "[393pts] Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "[86pts] How proprietary formats have become Microsoft\u2019s main tool for lock-in",
-      "[97pts] Cagire: Live Coding in Forth"
-    ],
-    "github": [
-      "\u2b50217,491 NousResearch/hermes-agent \u2014 The agent that grows with you",
-      "\u2b50185,617 Significant-Gravitas/AutoGPT \u2014 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our",
-      "\u2b50166,043 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
-      "\u2b50153,318 firecrawl/firecrawl \u2014 The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-      "\u2b50149,448 langgenius/dify \u2014 Production-ready platform for agentic workflow development."
-    ]
-  },
-  {
     "date": "2026-07-21",
     "google": [],
     "reddit": [
@@ -187,6 +162,28 @@
       "\u2b50166,378 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
       "\u2b50156,138 firecrawl/firecrawl \u2014 The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
       "\u2b50150,273 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "google": [],
+    "reddit": [
+      "r/artificial: Artificial Intelligence (AI)",
+      "r/artificial: I ran a faceless AI persona account for six weeks to see if the view money was real",
+      "r/artificial: Could this be the reason why some people see large coding productivity improvement, while others almost nothing?",
+      "r/artificial: Are AI tools actually worth it for small etsy shops?",
+      "r/artificial: 30+ officially free AI/ML books, all in one curated repo"
+    ],
+    "hackernews": [
+      "[792pts] US citizen charged after GrapheneOS phone wipes during airport search",
+      "[201pts] The New AI Superpowers: Focus and Followthrough"
+    ],
+    "github": [
+      "\u2b50221,169 NousResearch/hermes-agent \u2014 The agent that grows with you",
+      "\u2b50185,705 Significant-Gravitas/AutoGPT \u2014 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our",
+      "\u2b50166,416 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
+      "\u2b50156,727 firecrawl/firecrawl \u2014 The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+      "\u2b50150,391 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
     ]
   }
 ]
