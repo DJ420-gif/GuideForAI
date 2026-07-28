@@ -1,33 +1,5 @@
 [
   {
-    "date": "2026-07-21",
-    "google": [],
-    "reddit": [
-      "r/artificial: Artificial Intelligence (AI)",
-      "r/artificial: I thought AI would reduce my mental load",
-      "r/artificial: Looking for unique AI/ML project ideas (advanced level, research-worthy) \u2014 open to any field besides healthcare",
-      "r/artificial: Measuring engineering productivity is harder than ever. Thanks AI!",
-      "r/artificial: AheadForm Origin F1 at the World Artificial Intelligence Conference '26 in Shanghai"
-    ],
-    "hackernews": [
-      "[626pts] Who's afraid of Chinese models?",
-      "[279pts] Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "[273pts] Nativ: Run frontier open models locally on your Mac",
-      "[189pts] Agent swarms and the new model economics",
-      "[86pts] Launch HN: Bloomy (YC S26) \u2013 AI-powered mastery learning for K-12",
-      "[1107pts] China\u2019s open-weights AI strategy is winning",
-      "[142pts] You only need the frontier model for one single edit",
-      "[224pts] How we measured AI writing across arXiv, and where the measurement breaks"
-    ],
-    "github": [
-      "\u2b50218,059 NousResearch/hermes-agent \u2014 The agent that grows with you",
-      "\u2b50185,630 Significant-Gravitas/AutoGPT \u2014 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our",
-      "\u2b50166,106 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
-      "\u2b50153,742 firecrawl/firecrawl \u2014 The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-      "\u2b50149,592 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
-    ]
-  },
-  {
     "date": "2026-07-22",
     "google": [],
     "reddit": [
@@ -184,6 +156,34 @@
       "\u2b50166,416 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
       "\u2b50156,727 firecrawl/firecrawl \u2014 The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
       "\u2b50150,391 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "google": [],
+    "reddit": [
+      "r/artificial: Artificial Intelligence (AI)",
+      "r/artificial: AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible ",
+      "r/artificial: The world's best mathematician won his prize this week and immediately announced he's leaving academia for OpenAI. That ",
+      "r/artificial: Private Claude chats exposed on Google search results",
+      "r/artificial: China's new challenge as natural disasters strike"
+    ],
+    "hackernews": [
+      "[890pts] Our position on open-weights models",
+      "[179pts] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "[275pts] Using an open model feels surprisingly good",
+      "[85pts] Kimi K3 Now Available via Telnyx Inference API",
+      "[145pts] Self-contained highly-portable Python distributions",
+      "[98pts] Securing Services with Rootless Containers",
+      "[323pts] Netflix employee fired for sharing personal details in retreat trust exercise",
+      "[155pts] Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles"
+    ],
+    "github": [
+      "\u2b50221,630 NousResearch/hermes-agent \u2014 The agent that grows with you",
+      "\u2b50185,732 Significant-Gravitas/AutoGPT \u2014 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our",
+      "\u2b50166,464 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
+      "\u2b50157,246 firecrawl/firecrawl \u2014 The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+      "\u2b50150,526 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
     ]
   }
 ]
