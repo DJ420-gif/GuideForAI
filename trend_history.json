@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-07-27",
-    "google": [],
-    "reddit": [
-      "r/artificial: Artificial Intelligence (AI)",
-      "r/artificial: I ran a faceless AI persona account for six weeks to see if the view money was real",
-      "r/artificial: Could this be the reason why some people see large coding productivity improvement, while others almost nothing?",
-      "r/artificial: Are AI tools actually worth it for small etsy shops?",
-      "r/artificial: 30+ officially free AI/ML books, all in one curated repo"
-    ],
-    "hackernews": [
-      "[792pts] US citizen charged after GrapheneOS phone wipes during airport search",
-      "[201pts] The New AI Superpowers: Focus and Followthrough"
-    ],
-    "github": [
-      "\u2b50221,169 NousResearch/hermes-agent \u2014 The agent that grows with you",
-      "\u2b50185,705 Significant-Gravitas/AutoGPT \u2014 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our",
-      "\u2b50166,416 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
-      "\u2b50156,727 firecrawl/firecrawl \u2014 The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-      "\u2b50150,391 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
-    ]
-  },
-  {
     "date": "2026-07-28",
     "google": [],
     "reddit": [
@@ -171,6 +149,27 @@
       "\u2b50166,616 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
       "\u2b50159,230 firecrawl/firecrawl \u2014 The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
       "\u2b50151,043 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "google": [],
+    "reddit": [
+      "r/artificial: Artificial Intelligence (AI)",
+      "r/artificial: The EU AI Act makes failure to disclose AI-generated content (especially if it's hallucinated) illegal and costly.",
+      "r/artificial: EPA says power for data centers can sidestep pollution laws",
+      "r/artificial: We're building minds we can't fully explain, using minds we can't fully explain either",
+      "r/artificial: It started with a test of a frontier model and ended up as a multiplayer game"
+    ],
+    "hackernews": [
+      "[111pts] Autoregressive Language Model on the 6502 Processor"
+    ],
+    "github": [
+      "\u2b50224,606 NousResearch/hermes-agent \u2014 The agent that grows with you",
+      "\u2b50185,783 Significant-Gravitas/AutoGPT \u2014 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our",
+      "\u2b50166,668 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
+      "\u2b50159,758 firecrawl/firecrawl \u2014 The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+      "\u2b50151,177 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
     ]
   }
 ]
