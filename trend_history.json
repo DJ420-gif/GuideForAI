@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-08-02",
-    "google": [],
-    "reddit": [
-      "r/artificial: Artificial Intelligence (AI)",
-      "r/artificial: Judge denies request by Elon Musk's xAI to pause Minnesota nudification ban",
-      "r/artificial: How strong are OpenAI's &quot;No Data Sharing&quot; clauses on enterprise plans?",
-      "r/artificial: How extreme is the difference in using vs not using quality prompts?",
-      "r/artificial: Swapping AI models rarely fixes bad output. The context you feed it does more work than people realize."
-    ],
-    "hackernews": [
-      "[294pts] AI financial advice is surprisingly good, especially if you ask right questions",
-      "[100pts] Explorative modeling: Train on the best of K guesses"
-    ],
-    "github": [
-      "\u2b50224,000 NousResearch/hermes-agent \u2014 The agent that grows with you",
-      "\u2b50185,760 Significant-Gravitas/AutoGPT \u2014 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our",
-      "\u2b50166,616 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
-      "\u2b50159,230 firecrawl/firecrawl \u2014 The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-      "\u2b50151,043 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
-    ]
-  },
-  {
     "date": "2026-08-03",
     "google": [],
     "reddit": [
@@ -167,6 +145,30 @@
       "\u2b50166,872 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
       "\u2b50163,038 firecrawl/firecrawl \u2014 The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
       "\u2b50151,753 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
+    ]
+  },
+  {
+    "date": "2026-08-09",
+    "google": [],
+    "reddit": [
+      "r/artificial: Artificial Intelligence (AI)",
+      "r/artificial: Chinese LLMs dominate this week's top charts",
+      "r/artificial: Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+      "r/artificial: Learned the term &quot;context poisoning&quot; today and now I can't stop noticing it",
+      "r/artificial: The EU AI Act may become a global rulebook without other countries adopting it"
+    ],
+    "hackernews": [
+      "[86pts] Melatonin impairs morning cognition in healthy young adults (2023)",
+      "[111pts] The original URL for this prediction will no longer be available in 11 years (2011)",
+      "[388pts] Fastmail offers EU data region",
+      "[111pts] Message your other Claude Code sessions"
+    ],
+    "github": [
+      "\u2b50227,634 NousResearch/hermes-agent \u2014 The agent that grows with you",
+      "\u2b50186,443 Significant-Gravitas/AutoGPT \u2014 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our",
+      "\u2b50166,906 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
+      "\u2b50163,590 firecrawl/firecrawl \u2014 The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+      "\u2b50151,819 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
     ]
   }
 ]
