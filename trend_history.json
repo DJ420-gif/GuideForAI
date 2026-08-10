@@ -1,26 +1,5 @@
 [
   {
-    "date": "2026-08-03",
-    "google": [],
-    "reddit": [
-      "r/artificial: Artificial Intelligence (AI)",
-      "r/artificial: The EU AI Act makes failure to disclose AI-generated content (especially if it's hallucinated) illegal and costly.",
-      "r/artificial: EPA says power for data centers can sidestep pollution laws",
-      "r/artificial: We're building minds we can't fully explain, using minds we can't fully explain either",
-      "r/artificial: It started with a test of a frontier model and ended up as a multiplayer game"
-    ],
-    "hackernews": [
-      "[111pts] Autoregressive Language Model on the 6502 Processor"
-    ],
-    "github": [
-      "\u2b50224,606 NousResearch/hermes-agent \u2014 The agent that grows with you",
-      "\u2b50185,783 Significant-Gravitas/AutoGPT \u2014 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our",
-      "\u2b50166,668 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
-      "\u2b50159,758 firecrawl/firecrawl \u2014 The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-      "\u2b50151,177 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
-    ]
-  },
-  {
     "date": "2026-08-04",
     "google": [],
     "reddit": [
@@ -169,6 +148,31 @@
       "\u2b50166,906 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
       "\u2b50163,590 firecrawl/firecrawl \u2014 The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
       "\u2b50151,819 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "google": [],
+    "reddit": [
+      "r/artificial: Artificial Intelligence (AI)",
+      "r/artificial: Why billion-dollar robotics startups are obsessed with folding laundry",
+      "r/artificial: It looks like Gemini 3.5 Pro will no longer see the light of day. According to SemiAnalysis, it has silently been cancel",
+      "r/artificial: Domain-grounded coding agents vs. general-purpose ones (Copilot, Claude Code) \u2014 what are you seeing?",
+      "r/artificial: Your Agents Are Code. Stop Governing Them Like Documents."
+    ],
+    "hackernews": [
+      "[128pts] Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+      "[609pts] How I use LLMs to learn complex topics",
+      "[176pts] Auto mode is now the default in Claude Code",
+      "[115pts] The tragedy of the commons, AI edition",
+      "[83pts] Tuxedo No. 2 \u2013 Cocktail recipes"
+    ],
+    "github": [
+      "\u2b50228,102 NousResearch/hermes-agent \u2014 The agent that grows with you",
+      "\u2b50186,475 Significant-Gravitas/AutoGPT \u2014 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our",
+      "\u2b50166,944 f/prompts.chat \u2014 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co",
+      "\u2b50164,441 firecrawl/firecrawl \u2014 The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+      "\u2b50151,928 langgenius/dify \u2014 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o"
     ]
   }
 ]
