@@ -280,7 +280,6 @@
   transform: scale(1.1);
 }
   </style>
-  });
 
   <script type="module">
   import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
@@ -303,8 +302,7 @@ const firebaseConfig = {
   const chatRef = ref(db, "chatroom");
 
   const allowedUsers = ["Me", "Rani"];
-  const params = new URLSearchParams(window.location.search);
-  let username = params.get("user") || prompt("Enter your username:");
+  let username = prompt("Enter your username:");
 
   if (!allowedUsers.includes(username)) {
     alert("❌ Access Denied. Only authorized users can access this chat.");
