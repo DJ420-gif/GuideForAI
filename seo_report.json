@@ -88,6 +88,26 @@
     ]
   },
   {
+    "file": "Blog/chatbox.html",
+    "url": "https://dj420-gif.github.io/PromptPulse/Blog/chatbox.html",
+    "score": 15,
+    "title": "Study Master Chat",
+    "words": 832,
+    "tips": [
+      "\u26a0\ufe0f Title too short (17 chars) \u2014 Expand to 40-65 chars",
+      "\u274c CRITICAL: Missing meta description \u2014 Add <meta name='description' content='...'> under 155 chars",
+      "\u274c CRITICAL: Missing canonical \u2014 Add <link rel='canonical' href='https://dj420-gif.github.io/PromptPulse/Blog/chatbox.html'>",
+      "\u274c CRITICAL: Missing H1 tag \u2014 Add one <h1> with primary keyword",
+      "\u26a0\ufe0f Missing og:title \u2014 Add <meta property='og:title' content='...'>",
+      "\u26a0\ufe0f Missing og:url \u2014 Add <meta property='og:url' content='https://dj420-gif.github.io/PromptPulse/Blog/chatbox.html'>",
+      "\u274c CRITICAL: Missing schema markup \u2014 Add Article or Review schema",
+      "\ud83d\udca1 TIP: Missing FAQ schema \u2014 Adds Google FAQ dropdowns in search results",
+      "\u26a0\ufe0f Missing robots meta \u2014 Add <meta name='robots' content='index, follow'>",
+      "\ud83d\udca1 TIP: Missing author box \u2014 Add for E-E-A-T signals",
+      "\u26a0\ufe0f Only 1 internal links \u2014 Add 5+ links to related pages"
+    ]
+  },
+  {
     "file": "SaaSMVP/saas-mvp-guide.html",
     "url": "https://dj420-gif.github.io/PromptPulse/SaaSMVP/saas-mvp-guide.html",
     "score": 50,
